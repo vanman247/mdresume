@@ -1,89 +1,98 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Ammon Van Engelenhoven
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Ammon Van Enegelenhoven
+A budding Data Scientist, aspiring Polymath, Love of Data Exploration.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="ammoncvan@gmail.com">ammoncvan@gmail.com</a>
+| <a href="https://github.com/vanman247">Github Account</a>
+| <a href="https://www.linkedin.com/in/ammon-van-engelenhoven-4a42a0173/">LinkedIn</a>
+| <a href="https://app.joinhandshake.com/stu/users/12645338">Handshake</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+### __Brigham Young University - Idaho__ , Rexburg, ID
+`2018-2022`
 
-- Full academic scholarship with 4.0 GPA
+- Major: Data Science
+    - Data Wrangling and Visualization
+    - Spreadsheet Analysis for Business
+    - Applied Linear Regression
+    - Programming with Functions
+    - Machine Learning and Data Mining
+    - Project Management
+    - Data Science Consulting
+    - Database Management
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+### __High School__ , Fulton, MO
 
-- 4.0 Major GPA
+- Summary of School
+    - Averaged 3.54 GPA
+    - AP Calculus, Chemistry, Biology
+    - Wrestling Team - 182 lbs. Weight division
+    - Track and Field - Cross Country & Intermediate Distance
 
 
 ## Related Experience
 
-### Internships
+### Work Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Wal-Mart Associate, `August 2018 - Febuary 2021`
+    - As a Wal-Mart Associate, I would work wherever I was needed, from General Merchandise to Fresh Produce. Often as part of a team to accomplish our goals.
+    - Familiarity with Wal-Mart Database
+    - Warehouse Inventory Management
+    - Power Lifting Equipment Certified
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Regional Account Manager, `July 2020 - January 2021`
+    - Renegotiated contracts with expiring accounts to continue relationships with over 30 company clients.
+    - Built and cultivated long-term quality relationships with over 30 clients by addressing needs and providing superior customer service.
+    - Prepared and delivered presentations to international clients to highlight offerings and secure new business.
+    - Conferred with clients to understand needs and make targeted international shipping recommendations. 
+    - Identified new targets, developed new business opportunities and presented product lines to customers.
 
-### Data Science Lead
+- Administrative Assistant, `September 2021 - April 2022`
+    - Familiar with Rent Manager
+    - Worked mainly in the Billing Department
+    - Data Entry and Validation
+    - Database Management
+    - Customer Service
+    - Worked with 1099 Vendor's
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+### Projects
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+#### __Eagle Eye Produce__ , Rexburg, ID, `September 2021 - December 2021`
+- Consulted about their database, and helped restructure the database for optimal efficiency within the company’s dynamic. To improve the company’s performance in the open market.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+#### __Senior Project__ , Rexburg, ID, `January 2022 - April 2022`
+- Options Market Analysis
+    -  Performed Analysis to determine if the use of Options is a viable way to invest a portfolio.
+- Database management
+    - Built SQL Database to handle incoming data and exporting values.
+- Webscraping
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+## Things of Note
 
-### Data Science Consulting Team
+- Skills
+    - Python
+    - SQL
+    - Excel for spreadsheet analysis
+    - 3 years of Tableau experience
+    - Power BI
+    - Used R for research and Statistical Reporting
+    - Familiarity with HTML, and basic CSS
 
-`January 2027 - April 2027`
-__Imagine Learning__
+- Acheivements
+    - Eagle Scout
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Other
+    - Served as a Missionary for 2 years
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: May 2013
